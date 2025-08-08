@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Mayank Balayan</h1>
+<p align="center">A passionate Computer Science undergrad from INDIA</p>
+
 <h2 align="left"><em>I code to build, build to solve, and invest to grow — all with purpose.</em></h2>
 
 ###
@@ -6,7 +9,7 @@
 
 ###
 
-<p align="left">-🔭 I'm currently working on problem-solving and building tech projects.<br>-📚 I'm currently learning JavaScript and System Design.<br>-⚡ I enjoy working on startups and exploring the stock market📈.</p>
+<p align="left">-🔭 I'm currently working on problem-solving and building tech projects.<br>-📚 I'm currently learning <strong>Frontend and Backend Development.</strong>strong><br>-⚡ I enjoy working on startups and exploring the stock market📈.</p>
 
 ###
 
