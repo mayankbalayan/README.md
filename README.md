@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">-🔭 I'm currently working on problem-solving and building tech projects.<br>-📚 I'm currently learning <strong>Frontend and Backend Development.</strong>strong><br>-⚡ I enjoy working on startups and exploring the stock market📈.</p>
+<p align="left">-🔭 I'm currently working on problem-solving and building tech projects.<br>-📚 I'm currently learning <strong>Frontend and Backend Development.</strong><br>-⚡ I enjoy working on startups and exploring the stock market📈.</p>
 
 ###
 
