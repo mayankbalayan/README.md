@@ -1,4 +1,3 @@
-# README.md
 <h2 align="left">"I code to build, build to solve, and invest to grow — all with purpose."</h2>
 
 ###
