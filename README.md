@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Balayan</h1>
 <p align="center">A passionate Computer Science undergrad from INDIA</p>
 
-<h2 align="left"><em>I code to build, build to solve, and invest to grow — all with purpose.</em></h2>
+<h2 align="center"><em>I code to build, build to solve, and invest to grow — all with purpose.</em></h2>
 
 ###
 
